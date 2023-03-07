@@ -26,6 +26,15 @@ Recordando que también debe ser posible convertir inversamente, es decir:
         - Convertir de Libras Esterlinas a la moneda de tu país
         - Convertir de Yen Japonés a la moneda de tu país
         - Convertir de Won sul-coreano a la moneda de tu país
+        
+Valores Ingresados de las Divisas referencia al Peso Argentino el dia 1/3/23 :
+        
+        valorDolar = 200.00;
+	       valorEuro = 210.00;
+	       valorLibraEsterlina = 234.00;
+	       valorYenJapones = 1.44;
+	       valorWonSurCoreano = 0.15;
+        
 Extras:
         - Convertidor de Temperatura
 
